@@ -1,0 +1,12 @@
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.deps.json
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.runtimeconfig.json
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.runtimeconfig.dev.json
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.dll
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.pdb
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.csprojAssemblyReference.cache
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.AssemblyInfoInputs.cache
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.AssemblyInfo.cs
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.csproj.CoreCompileInputs.cache
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.dll
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.pdb
+C:\Test\Sun\DataSync\SystemGeneric.DataAccess.MySQL\obj\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.genruntimeconfig.cache

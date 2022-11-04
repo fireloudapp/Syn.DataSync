@@ -1,0 +1,11 @@
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\bin\Debug\netcoreapp3.1\Sun.WebAPI.Library.deps.json
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\bin\Debug\netcoreapp3.1\Sun.WebAPI.Library.dll
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\bin\Debug\netcoreapp3.1\Sun.WebAPI.Library.pdb
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\bin\Debug\netcoreapp3.1\SystemGeneric.Loggers.dll
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.csprojAssemblyReference.cache
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.AssemblyInfoInputs.cache
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.AssemblyInfo.cs
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.csproj.CoreCompileInputs.cache
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.csproj.CopyComplete
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.dll
+C:\Test\Sun\DataSync\Sun.WebAPI.Library\obj\Debug\netcoreapp3.1\Sun.WebAPI.Library.pdb

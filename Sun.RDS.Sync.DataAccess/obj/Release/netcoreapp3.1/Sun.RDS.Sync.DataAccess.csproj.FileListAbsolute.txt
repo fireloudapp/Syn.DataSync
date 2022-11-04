@@ -1,0 +1,15 @@
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.deps.json
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.dll
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.pdb
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\Sun.DataSync.Domain.dll
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.dll
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\SystemGeneric.Loggers.dll
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\Sun.DataSync.Domain.pdb
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\bin\Release\netcoreapp3.1\SystemGeneric.DataAccess.MySQL.pdb
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.csprojAssemblyReference.cache
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.AssemblyInfoInputs.cache
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.AssemblyInfo.cs
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.csproj.CoreCompileInputs.cache
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.csproj.CopyComplete
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.dll
+C:\Test\Sun\DataSync\Sun.RDS.Sync.DataAccess\obj\Release\netcoreapp3.1\Sun.RDS.Sync.DataAccess.pdb

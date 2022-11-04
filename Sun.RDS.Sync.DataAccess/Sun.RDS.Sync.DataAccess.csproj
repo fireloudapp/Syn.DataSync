@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sun.DataSync.Domain\Sun.DataSync.Domain.csproj" />
+    <ProjectReference Include="..\SystemGeneric.DataAccess.MySQL\SystemGeneric.DataAccess.MySQL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SystemGeneric.Loggers">
+      <HintPath>..\Output\SystemGeneric.Loggers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

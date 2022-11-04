@@ -1,0 +1,275 @@
+23-Jan-2021 11:17:45.415 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Listener LogSetup Initiated.
+23-Jan-2021 11:17:45.533 +05:30 [INF] Sun.RDS.Sync.Service Sync RabbitMQ Listener Service Initiated.
+23-Jan-2021 11:17:45.901 +05:30 [INF] Sun.RDS.Sync.Service ReceiverConfiguration Details
+23-Jan-2021 11:17:46.073 +05:30 [INF] Sun.RDS.Sync.Service {
+  "UserName": "Suntoyo_RabbitMQ",
+  "Password": "$R@Q@Sun9777",
+  "URL": "amqps://b-fe1166f5-8803-4ca7-b2cc-06dd71ad0c84.mq.ap-southeast-1.amazonaws.com:5671",
+  "HostName": null,
+  "TransactionQueue": "ClientA_Queue"
+}
+23-Jan-2021 11:17:46.073 +05:30 [INF] Sun.RDS.Sync.Service 
+
+23-Jan-2021 11:20:34.171 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:20:34.173 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:20:34.245 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:20:35.010 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:20:35.039 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 15
+23-Jan-2021 11:20:35.042 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 15
+23-Jan-2021 11:20:35.438 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 15
+23-Jan-2021 11:20:35.494 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 15
+23-Jan-2021 11:20:35.560 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 15
+23-Jan-2021 11:20:35.560 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:20:35.560 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:20:35.562 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:20:35.562 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:20:35.562 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:20:35.562 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:20:35.564 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:20:35.567 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:20:35.569 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.570 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.571 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.573 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.574 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.575 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 14
+23-Jan-2021 11:20:35.634 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.688 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.730 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.819 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.871 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.944 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 14
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 14
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:20:35.987 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:20:35.988 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:20:35.989 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:20:35.990 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 13
+23-Jan-2021 11:20:35.991 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 13
+23-Jan-2021 11:20:36.046 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 13
+23-Jan-2021 11:20:36.094 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 13
+23-Jan-2021 11:20:36.142 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 13
+23-Jan-2021 11:20:36.143 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:20:36.143 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:20:36.144 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:20:36.145 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:20:36.785 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:20:36.785 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:20:36.788 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:20:36.792 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:20:36.793 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 12
+23-Jan-2021 11:20:36.845 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 12
+23-Jan-2021 11:20:36.898 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 12
+23-Jan-2021 11:20:36.898 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:20:36.898 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:20:36.898 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:20:36.899 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:20:37.657 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:20:37.658 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:20:37.659 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:20:37.663 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:20:37.665 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 11
+23-Jan-2021 11:20:37.733 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 11
+23-Jan-2021 11:20:37.829 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 11
+23-Jan-2021 11:20:37.829 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:20:37.829 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:20:37.829 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:20:37.830 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:21:33.294 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:21:33.294 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:21:33.297 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:21:33.300 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:21:33.301 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.302 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.303 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.305 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.306 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.307 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 10
+23-Jan-2021 11:21:33.401 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.456 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.496 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.582 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.623 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.667 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 10
+23-Jan-2021 11:21:33.721 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 10
+23-Jan-2021 11:21:33.722 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:21:33.722 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:21:33.722 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:21:33.722 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:21:34.231 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:21:34.232 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:21:34.246 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:21:34.249 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:21:34.250 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.251 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.252 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.254 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.255 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.256 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.257 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.258 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 9
+23-Jan-2021 11:21:34.316 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.373 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.432 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.473 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.544 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.625 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.724 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.799 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 9
+23-Jan-2021 11:21:34.885 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 9
+23-Jan-2021 11:21:34.885 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:21:34.885 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:21:34.885 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:21:34.885 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:21:34.990 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:21:34.990 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:21:34.990 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:21:34.992 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:21:34.993 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 8
+23-Jan-2021 11:21:34.994 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 8
+23-Jan-2021 11:21:35.026 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 8
+23-Jan-2021 11:21:35.076 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 8
+23-Jan-2021 11:21:35.130 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 8
+23-Jan-2021 11:21:35.130 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:21:35.130 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:21:35.130 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:21:35.130 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:21:35.791 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:21:35.791 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:21:35.792 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:21:35.795 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:21:35.797 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 7
+23-Jan-2021 11:21:35.856 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 7
+23-Jan-2021 11:21:35.921 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 7
+23-Jan-2021 11:21:35.921 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:21:35.922 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:21:35.922 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:21:35.922 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:21:36.645 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:21:36.646 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:21:36.649 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:21:36.651 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:21:36.651 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 6
+23-Jan-2021 11:21:36.653 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 6
+23-Jan-2021 11:21:36.654 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 6
+23-Jan-2021 11:21:36.654 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 6
+23-Jan-2021 11:21:36.694 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 6
+23-Jan-2021 11:21:36.742 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 6
+23-Jan-2021 11:21:36.820 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 6
+23-Jan-2021 11:21:36.881 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 6
+23-Jan-2021 11:21:36.955 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 6
+23-Jan-2021 11:21:36.955 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:21:36.955 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:21:36.955 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:21:36.955 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:22:33.432 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:22:33.432 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:22:33.433 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:22:33.435 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:22:33.436 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.437 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.437 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.438 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.439 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.440 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.440 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 5
+23-Jan-2021 11:22:33.510 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.581 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.673 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.753 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.840 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.891 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:33.957 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 5
+23-Jan-2021 11:22:34.024 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 5
+23-Jan-2021 11:22:34.024 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:22:34.024 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:22:34.024 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:22:34.024 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:22:34.267 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:22:34.267 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:22:34.267 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:22:34.270 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:22:34.271 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 4
+23-Jan-2021 11:22:34.272 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 4
+23-Jan-2021 11:22:34.353 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 4
+23-Jan-2021 11:22:34.396 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 4
+23-Jan-2021 11:22:34.465 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 4
+23-Jan-2021 11:22:34.465 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:22:34.465 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:22:34.465 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:22:34.465 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:22:35.216 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:22:35.216 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:22:35.217 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:22:35.220 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:22:35.221 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.223 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.224 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.226 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.227 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.228 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.230 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 3
+23-Jan-2021 11:22:35.296 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.339 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.382 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.422 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.469 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.542 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.623 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 3
+23-Jan-2021 11:22:35.683 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 3
+23-Jan-2021 11:22:35.683 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:22:35.683 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:22:35.683 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:22:35.683 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:22:35.920 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:22:35.920 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:22:35.921 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:22:35.925 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:22:35.927 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 2
+23-Jan-2021 11:22:35.929 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 2
+23-Jan-2021 11:22:35.930 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 2
+23-Jan-2021 11:22:35.973 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 2
+23-Jan-2021 11:22:36.016 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 2
+23-Jan-2021 11:22:36.104 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 2
+23-Jan-2021 11:22:36.162 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 2
+23-Jan-2021 11:22:36.162 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:22:36.162 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:22:36.162 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:22:36.162 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:22:36.767 +05:30 [INF] Sun.RDS.Sync.Service Message Received.
+23-Jan-2021 11:22:36.768 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Started
+23-Jan-2021 11:22:36.770 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Initialized
+23-Jan-2021 11:22:36.776 +05:30 [INF] Sun.RDS.Sync.Service TransModel Creation Initiated
+23-Jan-2021 11:22:36.778 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 1
+23-Jan-2021 11:22:36.779 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 1
+23-Jan-2021 11:22:36.780 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 1
+23-Jan-2021 11:22:36.780 +05:30 [WRN] Sun.RDS.Sync.Service TransDetail Deleted : 1
+23-Jan-2021 11:22:36.819 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 1
+23-Jan-2021 11:22:36.862 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 1
+23-Jan-2021 11:22:36.949 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 1
+23-Jan-2021 11:22:36.983 +05:30 [INF] Sun.RDS.Sync.Service TransDetail Created : 1
+23-Jan-2021 11:22:37.039 +05:30 [INF] Sun.RDS.Sync.Service Trans Created : 1
+23-Jan-2021 11:22:37.039 +05:30 [INF] Sun.RDS.Sync.Service Completed TransTransactionHandler
+23-Jan-2021 11:22:37.039 +05:30 [INF] Sun.RDS.Sync.Service TranSyncronizer - Completed
+23-Jan-2021 11:22:37.039 +05:30 [INF] Sun.RDS.Sync.Service RabbitMQ Acknowledged : amq.ctag-FM6mOJsXEPccM3WRTIRB6Q
+23-Jan-2021 11:22:37.039 +05:30 [INF] Sun.RDS.Sync.Service SaveToRDS Completed
+
+23-Jan-2021 11:29:31.072 +05:30 [INF] Sun.RDS.Sync.Service Sync RabbitMQ Listener Service Started.

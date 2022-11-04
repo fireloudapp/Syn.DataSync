@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "NrU+LIsBcBfgmxZrlkMWLmGoD/KhNZalUQ3tcKH1FIxnIWt31lrINzWbvOilQoBXNSxS9Pj/h85goxvg8BlIZA==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\Sun\\DataSync\\RabbitMQ.Helper\\RabbitMQ.Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RR210250\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\RR210250\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\RR210250\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\RR210250\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\RR210250\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

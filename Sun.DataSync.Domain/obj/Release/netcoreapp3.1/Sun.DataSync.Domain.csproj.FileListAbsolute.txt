@@ -1,0 +1,9 @@
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\bin\Release\netcoreapp3.1\Sun.DataSync.Domain.deps.json
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\bin\Release\netcoreapp3.1\Sun.DataSync.Domain.dll
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\bin\Release\netcoreapp3.1\Sun.DataSync.Domain.pdb
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.csprojAssemblyReference.cache
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.AssemblyInfoInputs.cache
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.AssemblyInfo.cs
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.csproj.CoreCompileInputs.cache
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.dll
+C:\Test\Sun\DataSync\Sun.DataSync.Domain\obj\Release\netcoreapp3.1\Sun.DataSync.Domain.pdb

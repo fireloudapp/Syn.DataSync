@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Serilog" Version="2.10.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="SystemGeneric.Loggers">
+      <HintPath>..\..\..\..\Works\_FireCloudApps\Template\HelperDll\SystemGeneric.Loggers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

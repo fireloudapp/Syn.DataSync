@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtSVkfvrNBGT23rPvg8hV42mVvu1AULEQrxfvCK7o19gkbB413jZjg5jvU/jb56Q7CALGG+UB9sxvDEejgjX+g==",
+  "success": true,
+  "projectFilePath": "C:\\Test\\Sun\\DataSync\\Sun.DataSync.Domain\\Sun.DataSync.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RR210250\\.nuget\\packages\\bogus\\32.0.2\\bogus.32.0.2.nupkg.sha512",
+    "C:\\Users\\RR210250\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

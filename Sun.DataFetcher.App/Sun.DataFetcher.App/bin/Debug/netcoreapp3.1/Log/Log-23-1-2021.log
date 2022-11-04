@@ -1,0 +1,107 @@
+23-Jan-2021 11:01:39.651 +05:30 [INF] Sun.DataFetcher.App Data Fetcher Initialized
+23-Jan-2021 11:01:44.112 +05:30 [INF] Sun.DataFetcher.App Token Generated : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAiLCJuYmYiOjE2MTEzNzk5MDMsImV4cCI6MTYxMTk4NDcwMywiaWF0IjoxNjExMzc5OTAzfQ.g-J5RFF-1Qq7bDEpwMmRWQOF2jzk82ZtR75DjTBWb7o
+23-Jan-2021 11:02:53.548 +05:30 [INF] Sun.DataFetcher.App Data Fetcher Initialized
+23-Jan-2021 11:02:54.439 +05:30 [INF] Sun.DataFetcher.App Token Generated : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAiLCJuYmYiOjE2MTEzNzk5NzQsImV4cCI6MTYxMTk4NDc3NCwiaWF0IjoxNjExMzc5OTc0fQ.3vIk3G0klT7l0oEak4Pb1W0JQkzvXdtXVR6_4zEFrxk
+23-Jan-2021 11:03:53.744 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:03:54.189 +05:30 [INF] Sun.DataFetcher.App Trans Id: 15 Trans Detail Count : 2
+23-Jan-2021 11:03:54.191 +05:30 [INF] Sun.DataFetcher.App Trans Id: 14 Trans Detail Count : 6
+23-Jan-2021 11:03:54.192 +05:30 [INF] Sun.DataFetcher.App Trans Id: 13 Trans Detail Count : 2
+23-Jan-2021 11:03:54.193 +05:30 [INF] Sun.DataFetcher.App Trans Id: 12 Trans Detail Count : 1
+23-Jan-2021 11:03:54.194 +05:30 [INF] Sun.DataFetcher.App Trans Id: 11 Trans Detail Count : 1
+23-Jan-2021 11:03:54.194 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:03:54.194 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:03:55.685 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 15 
+23-Jan-2021 11:03:56.643 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 14 
+23-Jan-2021 11:03:57.363 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 13 
+23-Jan-2021 11:03:58.131 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 12 
+23-Jan-2021 11:03:58.894 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 11 
+23-Jan-2021 11:06:21.415 +05:30 [INF] Sun.DataFetcher.App Data Fetcher Initialized
+23-Jan-2021 11:06:22.756 +05:30 [INF] Sun.DataFetcher.App Token Generated : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAiLCJuYmYiOjE2MTEzODAxODIsImV4cCI6MTYxMTk4NDk4MiwiaWF0IjoxNjExMzgwMTgyfQ.v81ooLzb988VrHXdgPJvygZXLfoKB5Vrk3Jildwp7PY
+23-Jan-2021 11:07:21.557 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:07:21.981 +05:30 [INF] Sun.DataFetcher.App Trans Id: 15 Trans Detail Count : 2
+23-Jan-2021 11:07:21.983 +05:30 [INF] Sun.DataFetcher.App Trans Id: 14 Trans Detail Count : 6
+23-Jan-2021 11:07:21.994 +05:30 [INF] Sun.DataFetcher.App Trans Id: 13 Trans Detail Count : 2
+23-Jan-2021 11:07:21.996 +05:30 [INF] Sun.DataFetcher.App Trans Id: 12 Trans Detail Count : 1
+23-Jan-2021 11:07:21.997 +05:30 [INF] Sun.DataFetcher.App Trans Id: 11 Trans Detail Count : 1
+23-Jan-2021 11:07:21.997 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:07:21.997 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:07:22.956 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 15 
+23-Jan-2021 11:07:23.896 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 14 
+23-Jan-2021 11:07:24.702 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 13 
+23-Jan-2021 11:07:25.535 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 12 
+23-Jan-2021 11:07:26.395 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 11 
+23-Jan-2021 11:08:21.527 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:08:21.543 +05:30 [INF] Sun.DataFetcher.App Trans Id: 10 Trans Detail Count : 6
+23-Jan-2021 11:08:21.551 +05:30 [INF] Sun.DataFetcher.App Trans Id: 9 Trans Detail Count : 8
+23-Jan-2021 11:08:21.555 +05:30 [INF] Sun.DataFetcher.App Trans Id: 8 Trans Detail Count : 2
+23-Jan-2021 11:08:21.557 +05:30 [INF] Sun.DataFetcher.App Trans Id: 7 Trans Detail Count : 1
+23-Jan-2021 11:08:21.559 +05:30 [INF] Sun.DataFetcher.App Trans Id: 6 Trans Detail Count : 4
+23-Jan-2021 11:08:21.559 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:08:21.560 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:08:22.565 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 10 
+23-Jan-2021 11:08:23.471 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 9 
+23-Jan-2021 11:08:24.484 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 8 
+23-Jan-2021 11:08:25.428 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 7 
+23-Jan-2021 11:08:26.273 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 6 
+23-Jan-2021 11:09:21.519 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:09:21.534 +05:30 [INF] Sun.DataFetcher.App Trans Id: 5 Trans Detail Count : 7
+23-Jan-2021 11:09:21.536 +05:30 [INF] Sun.DataFetcher.App Trans Id: 4 Trans Detail Count : 2
+23-Jan-2021 11:09:21.538 +05:30 [INF] Sun.DataFetcher.App Trans Id: 3 Trans Detail Count : 7
+23-Jan-2021 11:09:21.540 +05:30 [INF] Sun.DataFetcher.App Trans Id: 2 Trans Detail Count : 3
+23-Jan-2021 11:09:21.541 +05:30 [INF] Sun.DataFetcher.App Trans Id: 1 Trans Detail Count : 4
+23-Jan-2021 11:09:21.541 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:09:21.542 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:09:22.464 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 5 
+23-Jan-2021 11:09:23.275 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 4 
+23-Jan-2021 11:09:24.213 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 3 
+23-Jan-2021 11:09:25.054 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 2 
+23-Jan-2021 11:09:25.993 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 1 
+23-Jan-2021 11:10:21.519 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:10:21.528 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:10:21.528 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:10:21.528 +05:30 [INF] Sun.DataFetcher.App No Trans Data to Sync
+23-Jan-2021 11:19:32.253 +05:30 [INF] Sun.DataFetcher.App Data Fetcher Initialized
+23-Jan-2021 11:19:33.594 +05:30 [INF] Sun.DataFetcher.App Token Generated : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAiLCJuYmYiOjE2MTEzODA5NzMsImV4cCI6MTYxMTk4NTc3MywiaWF0IjoxNjExMzgwOTczfQ.Dp0vW8Z1-JKzGfKJQhaiouDdpvOQ_3fPikLqI81zuQo
+23-Jan-2021 11:20:32.409 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:20:33.108 +05:30 [INF] Sun.DataFetcher.App Trans Id: 15 Trans Detail Count : 2
+23-Jan-2021 11:20:33.110 +05:30 [INF] Sun.DataFetcher.App Trans Id: 14 Trans Detail Count : 6
+23-Jan-2021 11:20:33.111 +05:30 [INF] Sun.DataFetcher.App Trans Id: 13 Trans Detail Count : 2
+23-Jan-2021 11:20:33.112 +05:30 [INF] Sun.DataFetcher.App Trans Id: 12 Trans Detail Count : 1
+23-Jan-2021 11:20:33.113 +05:30 [INF] Sun.DataFetcher.App Trans Id: 11 Trans Detail Count : 1
+23-Jan-2021 11:20:33.113 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:20:33.113 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:20:34.200 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 15 
+23-Jan-2021 11:20:35.186 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 14 
+23-Jan-2021 11:20:36.063 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 13 
+23-Jan-2021 11:20:36.862 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 12 
+23-Jan-2021 11:20:37.740 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 11 
+23-Jan-2021 11:21:32.363 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:21:32.383 +05:30 [INF] Sun.DataFetcher.App Trans Id: 10 Trans Detail Count : 6
+23-Jan-2021 11:21:32.387 +05:30 [INF] Sun.DataFetcher.App Trans Id: 9 Trans Detail Count : 8
+23-Jan-2021 11:21:32.391 +05:30 [INF] Sun.DataFetcher.App Trans Id: 8 Trans Detail Count : 2
+23-Jan-2021 11:21:32.394 +05:30 [INF] Sun.DataFetcher.App Trans Id: 7 Trans Detail Count : 1
+23-Jan-2021 11:21:32.397 +05:30 [INF] Sun.DataFetcher.App Trans Id: 6 Trans Detail Count : 4
+23-Jan-2021 11:21:32.397 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:21:32.398 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:21:33.306 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 10 
+23-Jan-2021 11:21:34.255 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 9 
+23-Jan-2021 11:21:35.107 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 8 
+23-Jan-2021 11:21:35.864 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 7 
+23-Jan-2021 11:21:36.740 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 6 
+23-Jan-2021 11:22:32.372 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:22:32.395 +05:30 [INF] Sun.DataFetcher.App Trans Id: 5 Trans Detail Count : 7
+23-Jan-2021 11:22:32.398 +05:30 [INF] Sun.DataFetcher.App Trans Id: 4 Trans Detail Count : 2
+23-Jan-2021 11:22:32.401 +05:30 [INF] Sun.DataFetcher.App Trans Id: 3 Trans Detail Count : 7
+23-Jan-2021 11:22:32.404 +05:30 [INF] Sun.DataFetcher.App Trans Id: 2 Trans Detail Count : 3
+23-Jan-2021 11:22:32.406 +05:30 [INF] Sun.DataFetcher.App Trans Id: 1 Trans Detail Count : 4
+23-Jan-2021 11:22:32.406 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:22:32.407 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:22:33.472 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 5 
+23-Jan-2021 11:22:34.349 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 4 
+23-Jan-2021 11:22:35.243 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 3 
+23-Jan-2021 11:22:36.020 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 2 
+23-Jan-2021 11:22:36.858 +05:30 [INF] Sun.DataFetcher.App Updating Local DB for Transaction Id: 1 
+23-Jan-2021 11:23:32.364 +05:30 [INF] Sun.DataFetcher.App Reading Trans Data From Local Database
+23-Jan-2021 11:23:32.370 +05:30 [INF] Sun.DataFetcher.App Read Data Completed for Trans
+23-Jan-2021 11:23:32.370 +05:30 [INF] Sun.DataFetcher.App Sending Trans
+23-Jan-2021 11:23:32.370 +05:30 [INF] Sun.DataFetcher.App No Trans Data to Sync

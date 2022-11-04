@@ -1,0 +1,17 @@
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.exe
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.deps.json
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.runtimeconfig.json
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.runtimeconfig.dev.json
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.dll
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Helper.pdb
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Test\Sun\DataSync\RabbitMQ.Helper\bin\Release\netcoreapp3.1\System.Threading.Channels.dll
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.csprojAssemblyReference.cache
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.AssemblyInfoInputs.cache
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.AssemblyInfo.cs
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.csproj.CoreCompileInputs.cache
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.csproj.CopyComplete
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.dll
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.pdb
+C:\Test\Sun\DataSync\RabbitMQ.Helper\obj\Release\netcoreapp3.1\RabbitMQ.Helper.genruntimeconfig.cache

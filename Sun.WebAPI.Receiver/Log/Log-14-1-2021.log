@@ -1,0 +1,15 @@
+14-Jan-2021 14:21:48.896 +05:30 [ERR] Sun.WebAPI.Receiver Generate
+System.ArgumentOutOfRangeException: Index and length must refer to a location within the string. (Parameter 'length')
+   at System.String.Substring(Int32 startIndex, Int32 length)
+   at Sun.DataSync.Domain.Generate.TransGenerateCode.<>c.<GetTrans>b__0_177(Faker f) in C:\Test\Sun\DataSync\Sun.DataSync.Domain\Generate\TransGenerateCode.cs:line 128
+   at Bogus.Faker`1.<>c__DisplayClass34_0`1.<RuleFor>b__0(Faker f, T t)
+   at Bogus.Faker`1.PopulateProperty(T instance, PopulateAction`1 action)
+   at Bogus.Faker`1.PopulateInternal(T instance, String[] ruleSets)
+   at Bogus.Faker`1.Generate(String ruleSets)
+   at Sun.DataSync.Domain.Generate.TransGenerateCode.GetTrans() in C:\Test\Sun\DataSync\Sun.DataSync.Domain\Generate\TransGenerateCode.cs:line 224
+   at Sun.WebAPI.Receiver.Controllers.ReceiverTransController.Generate() in C:\Test\Sun\DataSync\Sun.WebAPI.Receiver\Controllers\ReceiverTransController.cs:line 117
+14-Jan-2021 15:30:17.587 +05:30 [VRB] Sun.WebAPI.Receiver []
+14-Jan-2021 15:30:30.818 +05:30 [VRB] Sun.WebAPI.Receiver []
+14-Jan-2021 15:30:33.734 +05:30 [VRB] Sun.WebAPI.Receiver []
+14-Jan-2021 15:32:45.743 +05:30 [VRB] Sun.WebAPI.Receiver []
+14-Jan-2021 15:35:04.934 +05:30 [VRB] Sun.WebAPI.Receiver []
